@@ -1,0 +1,1 @@
+"""    module1.py    ~~~~~~~~~~~~~~~    Demo module containing functions    """def hi():    print("Hi!")def hello():    print("Hello!")def goodbye():    print("Bye!")

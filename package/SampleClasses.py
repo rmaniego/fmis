@@ -1,0 +1,1 @@
+"""    SampleClass.py    ~~~~~~~~~~~~~~~    Demo module containing classes    """class Class1:    def __init__(self):        print("Instantiating the Class1...")class Class2:    def __init__(self, name):        self.name = name        def method(self):        print(f"Class Name: {self.name}")

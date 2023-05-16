@@ -1,0 +1,1 @@
+"""    module1.py    ~~~~~~~~~~~~~~~    Demo module containing functions    """CONSTANT_VARIABLE = 23def function1():    print("This is a function call.")def function2(parameter):    print(f"Parameter: {parameter}")def function3(parameter1, parameter2):    print(f"function3({parameter1}, {parameter2})")    return parameter1, parameter2
